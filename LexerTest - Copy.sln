@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LexerTest - Copy", "LexerTest - Copy\LexerTest - Copy.csproj", "{28721E06-F285-458D-B63E-62E27236BE92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28721E06-F285-458D-B63E-62E27236BE92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28721E06-F285-458D-B63E-62E27236BE92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28721E06-F285-458D-B63E-62E27236BE92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28721E06-F285-458D-B63E-62E27236BE92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DF5CAD3-22BC-48FB-ABC5-8970873A712B}
+	EndGlobalSection
+EndGlobal
