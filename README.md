@@ -1,4 +1,4 @@
-->This is my first attempt to making an interpreter that can handle basic arithmetic expressions.
+->This is my second attempt to making an interpreter that can handle basic arithmetic expressions.
 
 ->The program can handle expressions including basic operators such as ADD, SUB, MUL and DIV. 
 
