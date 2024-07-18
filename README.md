@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ->This is my first attempt to making an interpreter that can handle basic arithmetic expressions.
 
 ->The program can handle expressions including basic operators such as ADD, SUB, MUL and DIV. 
@@ -9,8 +8,7 @@
 
 ->Some of the implementations has been written way long ago and may be prone to many issues. Another issue is that the program only supports numbers upto 4 bytes (float).
 
--?I will port the data types to a larger size in later versions.
-=======
+->I will port the data types to a larger size in later versions.
 ->This is my second attempt to making an interpreter that can handle basic arithmetic expressions.
 
 ->The program can handle expressions including basic operators such as ADD, SUB, MUL and DIV. 
@@ -25,4 +23,3 @@ which are expected to be fixed in a later version..
 ->Some of the implementations has been written way long ago and may be prone to many issues. Another issue is that the program only supports numbers upto 4 bytes (float).
 
 ->I will port the data types to a larger size in later versions.
->>>>>>> 4c68ad7ac4303f62b46153e04aeb7079b00c5250
