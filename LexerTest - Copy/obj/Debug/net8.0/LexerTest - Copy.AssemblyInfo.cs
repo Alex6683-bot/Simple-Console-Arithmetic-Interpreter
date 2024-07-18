@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LexerTest - Copy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40eb0e45fd1d4225f7788ac6a148765e463b4da5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12db72e8be9a12cd88734cfe6e1dbd2a73e2234d")]
 [assembly: System.Reflection.AssemblyProductAttribute("LexerTest - Copy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LexerTest - Copy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

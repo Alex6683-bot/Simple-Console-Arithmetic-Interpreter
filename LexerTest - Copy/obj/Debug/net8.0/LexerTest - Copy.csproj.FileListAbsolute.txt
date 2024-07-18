@@ -12,3 +12,4 @@ C:\Users\Alexm\OneDrive\Desktop\Files\Coding\C#\CONSOLE\LexerTest - Copy\LexerTe
 C:\Users\Alexm\OneDrive\Desktop\Files\Coding\C#\CONSOLE\LexerTest - Copy\LexerTest - Copy\obj\Debug\net8.0\LexerTest - Copy.pdb
 C:\Users\Alexm\OneDrive\Desktop\Files\Coding\C#\CONSOLE\LexerTest - Copy\LexerTest - Copy\obj\Debug\net8.0\LexerTest - Copy.genruntimeconfig.cache
 C:\Users\Alexm\OneDrive\Desktop\Files\Coding\C#\CONSOLE\LexerTest - Copy\LexerTest - Copy\obj\Debug\net8.0\ref\LexerTest - Copy.dll
+C:\Users\Alexm\OneDrive\Desktop\Files\Coding\C#\CONSOLE\LexerTest - Copy\LexerTest - Copy\obj\Debug\net8.0\LexerTest - Copy.sourcelink.json

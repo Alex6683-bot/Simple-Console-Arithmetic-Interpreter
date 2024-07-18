@@ -20,9 +20,8 @@ namespace Lexer
             interpreter.DisplayCurrentResult();
             //DisplayTypes(new Tokenizer().Tokenize(input));
 
-
+//testt
             Console.ReadKey(true);
-            Console.Clear();
             Main();
         }
 
