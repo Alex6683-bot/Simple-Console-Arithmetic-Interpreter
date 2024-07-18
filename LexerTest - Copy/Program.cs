@@ -19,8 +19,6 @@ namespace Lexer
             interpreter.Evaluate(input);
             interpreter.DisplayCurrentResult();
             //DisplayTypes(new Tokenizer().Tokenize(input));
-
-//testt
             Console.ReadKey(true);
             Main();
         }
